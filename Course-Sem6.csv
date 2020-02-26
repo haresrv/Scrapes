@@ -1,0 +1,10 @@
+Cat,Code,Title,L,T,P,Cr,ES
+ENGG,15CSE311,Compiler Design,3,1,0,4,A
+ENGG,15CSE312,Computer Networks,3,0,0,3,B
+ENGG,15CSE313,Software Engineering,2,0,2,3,C
+ENGG, ,Elective II*,3,0,0,3,E
+ENGG, ,Elective III*,3,0,0,3,D
+ENGG,15CSE385,Compiler Design Lab,0,0,2,1,L1
+ENGG,15CSE386,Computer Networks Lab,0,0,2,1,L2
+ENGG,15CSE387,Open Lab,0,1,2,2,L3
+HUM,15SSK331,Soft Skills III,1,0,2,2,G

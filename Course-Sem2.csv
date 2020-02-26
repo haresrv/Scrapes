@@ -1,0 +1,9 @@
+Cat,Code,Title,L,T,P,Cr,ES
+SCI,15MAT121,Vector Calculus and Ordinary Differential Equations,3,1,0,4,B
+SCI,15CHY100/ 15PHY100,Chemistry / Physics,3,0,0,3,C
+ENGG,15CSE102,Computer Programming,3,0,0,3,D
+ENGG,15CSE111,Computer Science Essentials,3,0,0,3,E
+ENGG,15EEE111,Fundamentals of Electrical and Electronics Engineering,4,0,0,4,A
+SCI,15CHY181/ 15PHY181,Chemistry Lab / Physics Lab,0,0,2,1,L1
+ENGG,15EEE180/ 15MEC180,Workshop B / Workshop A,0,0,2,1,L2
+ENGG,15CSE180,Computer Programming Lab,0,0,2,1,L3

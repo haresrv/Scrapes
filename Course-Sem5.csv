@@ -1,0 +1,9 @@
+Cat,Code,Title,L,T,P,Cr,ES
+ENGG,15CSE301,Computer Organization and Architecture,2,0,2,3,B
+ENGG,15CSE302,Database Management Systems,3,0,0,3,C
+ENGG,15CSE303,Theory of Computation,3,0,0,3,C
+HUM,15ENV300,Environmental Science and Sustainability,3,0,0,3,D
+SCI,15MAT301,"Linear Algebra, Queueing Theory and Optimization",3,1,0,4,B
+ENGG, ,Elective I*,3,0,0,3,E
+ENGG,15CSE381,Computer Organization and Architecture Lab,0,0,2,1,L1
+HUM,15SSK321,Soft Skills II,1,0,2,2,G

@@ -1,0 +1,9 @@
+Cat,Code,Title,L,T,P,Cr,ES
+ENGG,15CSE201,Data Structures and Algorithms,3,1,0,4,A
+ENGG,15CSE202,Object Oriented Programming,3,0,0,3,D
+ENGG,15ECE202,Digital Circuits and Systems,3,1,0,4,C
+SCI,15MAT201,Discrete Mathematics,3,1,0,4,B
+HUM, ,Humanities Elective I,-,-, ,2,H
+ENGG,15CSE281,Data Structures Lab,0,0,2,1,L3
+ENGG,15CSE282,Object Oriented Programming Lab,0,0,2,1,L2
+ENGG,15ECE281,Digital Circuits and Systems Lab,0,0,2,1,L1

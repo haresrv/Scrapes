@@ -1,0 +1,9 @@
+Cat,Code,Title,L,T,P,Cr,ES
+HUM,15ENG111,Communicative English,2,0,2,3,A
+SCI,15MAT111,Calculus and Matrix Algebra,2,1,0,3,B
+ENGG,15CSE100,Computational Thinking and Problem Solving,3,0,2,4,D
+SCI,15PHY100 / 15CHY100,Physics / Chemistry,3,0,0,3,C
+SCI,15PHY181 / 15CHY181,Physics Lab / Chemistry Lab,0,0,2,1,L1
+ENGG,15MEC180/ 15EEE180,Workshop A / Workshop B,0,0,2,1,L2
+ENGG,15MEC100,Engineering Drawing - CAD,2,0,2,3,E
+HUM,15CUL101,Cultural Education I,2,0,0,2,F
