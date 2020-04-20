@@ -4,6 +4,8 @@ Repo contains Scraped Script and Data from Amrita Intranet websites
 First do pip install requirements.txt before executing
 Used Pandas to save scraped data to CSV files
 
+Repl Hotstar Scrape(wink wink) - https://repl.it/repls/ContentKeenCases
+
 HPOJScrape.ipynb --> http://hpoj.cb.amrita.edu:8000/
 
 
